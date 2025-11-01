@@ -1,0 +1,795 @@
+.imagen {
+  width: 10px; 
+  height: 10px; 
+  border-radius: 30%; 
+  object-fit: cover;
+}
+
+body {
+    background-color: blanchedalmond;
+    height: 1000px;
+}
+
+.rectangulo {
+  width: 1271.5px;
+  height: 45px;  
+  background-color: rgb(92, 31, 31, 0.8);
+  margin: 0px;
+  margin-left: -15px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  backdrop-filter: blur(10px);
+  z-index: 999;
+
+
+}
+
+.Appel{
+  width: 30px;
+  height: 20px;
+  display: block;
+  margin-left: 145px;
+  margin-right: 12px;
+}
+
+span.texto{
+  padding-right:  20px;
+  margin-left: 20px;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  font-size: 12px;
+}
+
+.icon{
+  width: 20px;
+  height: 20px;
+  display: block;
+  margin-left: 10px;
+}
+
+.icon2{
+  width: 20px;
+  height: 20px;
+  display: block;
+  margin-left: 30px;
+}
+
+.text1{
+  text-align: center;
+  margin-top: 77px;
+  font-size: 60px;
+  font-family: 'Arial', sans-serif;
+  margin-left: 50px;
+  color:rgb(92, 31, 31);
+}
+
+.text2{
+
+  text-align: center;
+  margin-top: -40px;
+  font-size: 35px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  margin-left: 50px;
+  color:rgb(0, 0, 0);
+}
+
+.button1{
+  width: 150px;
+  height: 50px;
+  display: block;
+  padding: 10px 20px;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 530px;
+  margin-top: -10px;
+  background-color:rgb(92, 31, 31);
+  
+}
+
+.button2{
+  width: 80px;
+  height: 50px;
+  display: block;
+  padding: 10px 20px;
+  color:rgb(92, 31, 31);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 700px;
+  margin-top: -49px;
+  background-color:  #ffebcd;
+  border: 2px solid rgb(92, 31, 31);
+}
+
+.iPhone17{
+  width: 800px;
+  height: 350px;
+  margin: auto;
+  display: block;
+}
+
+.iPhone{
+  width: 1264.5px;
+  height: 600px;  
+  background-color: rgb(92, 31, 31);
+  margin: -20px;
+  margin-left: -8px;
+}
+
+.Promax{
+  width: 1144.5px;
+  height: 400px;
+  margin: auto;
+  display: block;
+  margin: 20px;
+  position: relative;
+  top: 170px;
+  left: 100px;
+}
+
+.text3{
+  text-align: center;
+  margin-top: -360px;
+  font-size: 60px;
+  font-family: 'Arial', sans-serif;
+  margin-left: 50px;
+  color:rgb(255, 235, 205);
+}
+
+.text4{
+  text-align: center;
+  margin-top: -35px;
+  font-size: 35px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  margin-left: 50px;
+  color:rgb(255, 235, 205);
+}
+
+.text5{
+  text-align: center;
+  margin-top: -38px;
+  font-size: 35px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  margin-left: 50px;
+  color:rgb(255, 235, 205);
+}
+
+.button3{
+  width: 150px;
+  height: 50px;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 530px;
+  margin-top: -10px;
+   color: #532121;
+  background-color:rgb(255, 235, 205);
+}
+
+.button4{
+  width: 80px;
+  height: 50px;
+  display: block;
+  padding: 10px 20px;
+  color:rgb(255, 235, 205);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 700px;
+  margin-top: -49px;
+  background-color:  #532121;
+  border: 2px solid rgb(255, 235, 205);
+}
+
+.mac{
+  width: 1264.5px;
+  height: 600px;  
+  background-color: rgb(0, 0, 0);
+  margin-top: 20px;
+  margin-left: -8px;
+  display: block;
+}
+
+.Macbook{
+  width: 400px;
+  height: 300px;
+  margin: auto;
+  display: block;
+  top: 280px;
+  position: relative;
+}
+
+.text6{
+  text-align: relative;
+  margin-top: -260px;
+  margin-left: 400px;
+  font-size: 60px;
+  font-family: 'Arial', sans-serif;
+  color:rgb(255, 235, 205);
+  
+}
+
+.text7{
+
+  text-align: relative;
+  font-size: 35px;
+  margin-top: -40px;
+  margin-left: 500px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(255, 235, 205);
+}
+
+.button5{
+  width: 150px;
+  height: 50px;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 530px;
+  margin-top: -10px;
+   color: #532121;
+  background-color:rgb(255, 235, 205);
+}
+
+.button6{
+  width: 80px;
+  height: 50px;
+  display: block;
+  padding: 10px 20px;
+  color:rgb(255, 235, 205);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 700px;
+  margin-top: -49px;
+  background-color:  #000000;
+  border: 2px solid rgb(255, 235, 205);
+}
+
+.ipad{
+  width: 600px;
+  height: 550px;
+  position: relative;
+  top: 20px;
+  left: 640px;
+  display: flex;
+  justify-content: center;
+  border: #000000;
+  background-color: rgb(0, 0, 0);
+}
+
+.iPad{
+  width: 400px;
+  height: 330px;
+  display: block;
+  position: relative;
+  margin-top: 222px;
+  left: 0px;
+}
+
+.text8{
+ position: absolute;
+  top: 10px;
+  left: 220px;
+  font-size: 40px;
+  font-family: 'Arial', sans-serif;
+  color:rgb(255, 235, 205);
+}
+
+.text9{
+  position: absolute;
+  top: 100px;
+  left:  210px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(255, 235, 205);
+}
+
+.text10{
+  position: absolute;
+  top: 125px;
+  left: 190px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(255, 235, 205);
+}
+
+.button7{
+  width: 100px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 200px;
+  top: 170px;
+  color: #532121;
+  background-color:rgb(255, 235, 205);
+}
+
+.button8{
+  width: 50px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  color:rgb(255, 235, 205);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 330px;
+  top: 170px;
+  background-color:  #000000;
+  border: 2px solid rgb(255, 235, 205);
+}
+
+
+.watch{
+  width: 600px;
+  height: 550px;
+  position: relative;
+  top: -530px;
+  left: 10px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(222, 194, 159);
+}
+
+.Watch{
+  width: 600px;
+  height: 300px;
+  display: block;
+  position: relative;
+  margin-top: 200px;
+  left: 0px;
+}
+
+.text11{
+  position: absolute;
+  top: auto;
+  left: 175px;
+  font-size: 40px;
+  font-family: 'Arial', sans-serif;
+  color:rgb(0, 0, 0);
+}
+
+.text12{
+  position: absolute;
+  top:45px;
+  left: 350px;
+  font-weight: 100;
+  font-family: 'Arial', sans-serif;
+  color:rgb(0, 0, 0);
+}
+
+.A3{
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  top: 60px;
+  left: 135px;
+}
+
+.text1E{
+  position: absolute;
+  top: 100px;
+  left: 190px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(0, 0, 0);
+}
+
+.button9{
+  width: 100px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 200px;
+  top: 150px;
+  color:#fee5c0;
+  background-color:rgb(92, 31, 31);
+}
+
+.button10{
+  width: 50px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  color:rgb(91, 31, 31);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 330px;
+  top: 150px;
+  background-color:  #d4bc98;
+  border: 2px solid rgb(91, 31, 31);
+}
+
+.airpods{
+ width: 600px;
+  height: 550px;
+  position: relative;
+  top: -510px;
+  left: 10px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(91, 31, 31);
+}
+
+.AirPods{
+  width: 450px;
+  height: 350px;
+  display: block;
+  position: relative;
+  margin-top: 190px;
+  left: 0px;
+}
+
+.text14{
+  position: absolute;
+  top: 10px;
+  left: 170px;
+  font-size: 40px;
+  font-family: 'Arial', sans-serif;
+  color:rgb(255, 235, 205);
+}
+
+.text15{
+  position: absolute;
+  top: 100px;
+  left:  210px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(255, 235, 205);
+}
+
+.text16{
+  position: absolute;
+  top: 125px;
+  left: 200px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(255, 235, 205);
+}
+
+.button11{
+  width: 100px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 200px;
+  top: 170px;
+  color:#532121;
+  background-color:rgb(255, 235, 205);
+}
+
+.button12{
+  width: 50px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  color:rgb(255, 235, 205);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 330px;
+  top: 170px;
+  background-color: #532121;
+  border: 2px solid rgb(255, 235, 205);
+}
+
+.mac2{
+  width: 600px;
+  height: 550px;
+  position: relative;
+  top: -1060px;
+  left: 640px;
+  display: flex;
+  justify-content: center;
+  border: #d4bc98;
+  background-color: rgb(222, 194, 159);
+}
+
+.MacBook2{
+  width: 400px;
+  height: 330px;
+  display: block;
+  position: relative;
+  margin-top: 222px;
+  left: 0px;
+}
+
+.text17{
+  position: absolute;
+  top: auto;
+  left: 175px;
+  font-size: 40px;
+  font-family: 'Arial', sans-serif;
+  color:rgb(92, 31, 31);
+}
+
+.text18{
+  position: absolute;
+  top:90px;
+  left: 250px;
+  font-weight: 100;
+  font-family: 'Arial', sans-serif;
+  color:rgb(92, 31, 31);
+}
+
+.text19{
+  position: absolute;
+  top: 110px;
+  left: 190px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(92, 31, 31);
+}
+
+.button13{
+  width: 100px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 200px;
+  top: 170px;
+  color:#d4bc98;
+  background-color:rgb(92, 31, 31);
+}
+
+.button14{
+  width: 50px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  color:rgb(92, 31, 31);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 330px;
+  top: 170px;
+  background-color: #d4bc98;
+  border: 2px solid rgb(92, 31, 31);
+}
+
+.trade{
+  width: 600px;
+  height: 550px;
+  position: relative;
+  top: -1040px;
+  left: 10px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(222, 194, 159);
+}
+
+
+.TradeIn{
+  width: 600px;
+  height: 350px;
+  display: block;
+  position: relative;
+  margin-top: 222px;
+  left: 0px;
+}
+
+.text20{
+  position: absolute;
+  top: 10px;
+  left: 250px;
+  font-size: 40px;
+  font-family: 'Arial', sans-serif;
+  color:rgb(92, 31, 31);
+}
+
+.text21{
+  position: absolute;
+  top: 100px;
+  left:  210px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(92, 31, 31);
+}
+
+.text22{
+  position: absolute;
+  top: 125px;
+  left: 200px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(92, 31, 31);
+}
+
+.text23{
+  position: absolute;
+  top: 150px;
+  left: 220px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(92, 31, 31);
+}
+
+.A4{
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  top: 60px;
+  left: 200px;
+}
+
+.button15{
+  width: 150px;
+  height: 40px;
+  display: block;
+  padding: 5px 5px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  position: absolute;
+  left: 220px;
+  top: 200px;
+  color:#fee5c0;
+  background-color:rgb(92, 31, 31);
+}
+
+.card{
+  width: 600px;
+  height: 550px;
+  position: relative;
+  top: -1590px;
+  left: 640px;
+  display: flex;
+  justify-content: center;
+  border: #532121;
+  background-color:rgb(92, 31, 31);
+}
+
+.Card{
+  width: 450px;
+  height: 330px;
+  display: block;
+  position: relative;
+  margin-top: 219px;
+  left: 0px;
+}
+
+.text24{
+  position: absolute;
+  top: auto;
+  left: 250px;
+  font-size: 40px;
+  font-family: 'Arial', sans-serif;
+  color:rgb(255, 235, 205);
+}
+
+.text25{
+  position: absolute;
+  top:90px;
+  left: 190px;
+  font-weight: 100;
+  font-family: 'Arial', sans-serif;
+  color:rgb(255, 235, 205);
+}
+
+.text26{
+  position: absolute;
+  top: 110px;
+  left: 230px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  color:rgb(255, 235, 205);
+}
+
+.A5{
+  width: 60px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  top: 55px;
+  left: 200px;
+}
+
+.button16{
+  width: 100px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  text-decoration: none;
+  border-radius: 30px;
+  border: none;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 200px;
+  top: 170px;
+  color:#532121;
+  background-color:rgb(255, 235, 205);
+}
+
+.button17{
+  width: 100px;
+  height: 30px;
+  display: block;
+  padding: 5px 5px;
+  color:rgb(255, 235, 205);
+  text-decoration: none;
+  border-radius: 30px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  left: 330px;
+  top: 170px;
+  background-color: #532121;
+  border: 2px solid rgb(255, 235, 205);
+}
